@@ -3,9 +3,10 @@
 # - O nome pode ser composto por letras, algarismos e underlines;
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
-# Declare variáveis do tipo string
-
+# Declare variáveis do tipo string 
+nome = 'paloma'
 # Declare variáveis de cada tipo numérico
-
+integral = 6 
 
 # Declare uma variável do tipo booleano
+verdadeiro = True
